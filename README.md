@@ -1,6 +1,6 @@
 # Hi, I'm Mike 👋
 
-Full-stack engineer at [SampleServe](https://sampleserve.com), where we build software for
+CTO & solo byte wrangler at [SampleServe](https://sampleserve.com), where we build software for
 environmental field sampling, lab data and compliance reporting.
 
 **What I work on**
